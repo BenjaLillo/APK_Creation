@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cuál es la capital de Francia?",
+    "image": "path/to/quiz_image1.jpg",
+    "alternatives": ["París", "Londres", "Berlín", "Roma"],
+    "correct_answer": "París"
+  },
+  {
+    "id": 2,
+    "question": "¿Cuál es el río más largo del mundo?",
+    "image": "path/to/quiz_image2.jpg",
+    "alternatives": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+    "correct_answer": "Amazonas"
+  },
+  {
+    "id": 3,
+    "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+    "image": "path/to/quiz_image3.jpg",
+    "alternatives": ["1914", "1939", "1905", "1928"],
+    "correct_answer": "1914"
+  },
+  {
+    "id": 4,
+    "question": "¿Cuál es el elemento más abundante en la corteza terrestre?",
+    "image": "path/to/quiz_image4.jpg",
+    "alternatives": ["Oxígeno", "Silicio", "Aluminio", "Hierro"],
+    "correct_answer": "Oxígeno"
+  }
+]
